@@ -87,6 +87,14 @@
       <artifactId>c3p0</artifactId>
       <version>0.9.5.5</version>
     </dependency>
+
+    <!-- https://mvnrepository.com/artifact/org.aspectj/aspectjweaver -->
+    <dependency>
+      <groupId>org.aspectj</groupId>
+      <artifactId>aspectjweaver</artifactId>
+      <version>1.9.22</version>
+    </dependency>
+
   </dependencies>
 
   <build>
